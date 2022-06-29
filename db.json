@@ -2,19 +2,11 @@
   "clientes": [
     {
       "nombre": "Ernesto Lopez",
-      "empresa": "Kurosu",
-      "email": "ernestodaniellopez504@gmail.com",
-      "telefono": "0971257580",
-      "notas": "Es de Paraguay",
-      "id": 1
-    },
-    {
-      "nombre": "Elias",
-      "empresa": "Biggie",
+      "empresa": "Ejemplo",
       "email": "correo@correo.com",
-      "telefono": "0971257589",
-      "notas": "M.R.A",
-      "id": 3
+      "telefono": "0999999999",
+      "notas": "Esta es una nota jeje",
+      "id": 1
     }
   ]
 }
