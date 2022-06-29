@@ -30,7 +30,7 @@ const Formulario = ({cliente, cargando}) => {
                     }
                });
             } else {
-                const url = `${import.meta.env.VITE_API_URL}/clientes`;
+                const url = `${import.meta.env.VITE_API_URL}`;
                 await fetch(url, {
                     method: 'POST',
                     body : JSON.stringify(values),
@@ -60,7 +60,7 @@ const Formulario = ({cliente, cargando}) => {
         onSubmit={async (values, {resetForm} ) => {
             await handleSubmit(values);
             await resetForm();
-            navigate('/cLientes');
+            navigate('/');
         }}
         validationSchema={nuevoClienteSchema}
         >
