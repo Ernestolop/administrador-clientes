@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ernesto Lopez",
+      "empresa": "Kurosu",
+      "email": "ernestodaniellopez504@gmail.com",
+      "telefono": "0971257580",
+      "notas": "Es de Paraguay",
+      "id": 1
+    },
+    {
+      "nombre": "Mark Zuck",
+      "empresa": "Meta",
+      "email": "correo@correo.com",
+      "telefono": "0971257580",
+      "notas": "Es de Estados Unidos",
+      "id": 2
+    },
+    {
+      "nombre": "Elias",
+      "empresa": "Biggie",
+      "email": "correo@correo.com",
+      "telefono": "0971257589",
+      "notas": "M.R.A",
+      "id": 3
+    }
+  ]
+}
